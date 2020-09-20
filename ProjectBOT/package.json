@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-tesseract": "^0.0.2"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
